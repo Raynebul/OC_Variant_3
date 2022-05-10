@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Сергей\\source\\repos\\OC\\OC\\OC.csproj",
+      "projectUniqueName": "C:\\Users\\Сергей\\Documents\\GitHub\\OC_Variant_3\\OC\\OC\\OC.csproj",
       "projectName": "OC",
-      "projectPath": "C:\\Users\\Сергей\\source\\repos\\OC\\OC\\OC.csproj",
+      "projectPath": "C:\\Users\\Сергей\\Documents\\GitHub\\OC_Variant_3\\OC\\OC\\OC.csproj",
       "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Сергей\\source\\repos\\OC\\OC\\obj\\",
+      "outputPath": "C:\\Users\\Сергей\\Documents\\GitHub\\OC_Variant_3\\OC\\OC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
