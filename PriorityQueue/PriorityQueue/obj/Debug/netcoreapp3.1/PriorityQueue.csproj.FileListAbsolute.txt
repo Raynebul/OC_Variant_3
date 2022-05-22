@@ -1,0 +1,14 @@
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.exe
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.deps.json
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.json
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.runtimeconfig.dev.json
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\bin\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.dll
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.pdb
+C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.genruntimeconfig.cache
