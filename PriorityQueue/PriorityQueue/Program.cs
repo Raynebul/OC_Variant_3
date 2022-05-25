@@ -133,9 +133,10 @@ namespace PriorityQueue
             list.Add(Q1);
 
             Console.WriteLine("Emulation of task manager");
-  
+            int S = int.Parse(Console.ReadLine());
+            Console.WriteLine(S);
             Random rnd = new Random();
-            for (int l = 1; l <= 15; l++)
+            for (int l = 1; l <= S; l++)
             {
                 string id = "task " + l.ToString();            
                 Task1 proc = new Task1(id, rnd.Next(1, 20));

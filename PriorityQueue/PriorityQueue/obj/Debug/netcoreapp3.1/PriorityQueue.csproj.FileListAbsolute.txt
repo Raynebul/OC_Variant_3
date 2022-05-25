@@ -1,4 +1,3 @@
-C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.csproj.AssemblyReference.cache
 C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfoInputs.cache
 C:\Users\Сергей\source\repos\PriorityQueue\PriorityQueue\obj\Debug\netcoreapp3.1\PriorityQueue.AssemblyInfo.cs
